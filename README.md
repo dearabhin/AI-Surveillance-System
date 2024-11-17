@@ -26,7 +26,7 @@ The AI-Based Beach Surveillance System is designed to monitor public beaches usi
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/AI-Beach-Surveillance-System.git
+git clone https://github.com/dearabhin/AI-Beach-Surveillance-System.git
 cd AI-Beach-Surveillance-System
 ```
 
