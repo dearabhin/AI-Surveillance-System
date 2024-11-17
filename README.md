@@ -1,7 +1,4 @@
 
-### **`README.md`**
-
-```markdown
 # AI-Based Beach Surveillance System
 
 ## 🌊 Overview
@@ -110,7 +107,7 @@ You can deploy the application on platforms like:
 ---
 
 ## 🛡️ License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -120,7 +117,7 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 ---
 
 ## 📧 Contact
-For any queries or feedback, reach out to abhinkrishna,com.
+For any queries or feedback, reach out to **abhinkrishna.com**.
 
 ---
 
@@ -131,6 +128,4 @@ Special thanks to:
 - Flask for a lightweight backend framework.
 ```
 
----
-
-This README provides all necessary details, including setup, functionality, and usage instructions. Let me know if you want to refine it further or add specific content like deployment steps!
+This file is formatted for Markdown and is suitable for direct upload to a GitHub repository. It includes proper sectioning, code blocks, and formatting for better readability. Let me know if you need further customizations!
